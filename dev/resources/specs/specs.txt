@@ -1,0 +1,20 @@
+Evolution Game Specs
+
+2d scrolling game
+
+Sprite sheets
+
+all 8 frame movement cycles
+
+1 line on sprite sheet = frames for movement in 1 direction
+
+#1: Fish
+
+forward - up
+        - straight ahead
+        - down
+
+backward- up
+        - straight back
+        - down
+
