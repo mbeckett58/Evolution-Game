@@ -10,6 +10,8 @@ all 8 frame movement cycles
 
 #1: Fish
 
+7 rows : 
+
 forward - up
         - straight ahead
         - down
@@ -17,4 +19,10 @@ forward - up
 backward- up
         - straight back
         - down
+
+idle
+
+#2: scrolling background
+
+??? tbd
 
